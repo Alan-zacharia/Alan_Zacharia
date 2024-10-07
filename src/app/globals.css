@@ -6,6 +6,7 @@
   body {
     @apply font-primary bg-primary text-white leading-loose
   }
+<<<<<<< HEAD
   .h1{
     @apply text-[48px] xl:text-[80px] leading-[1.1] font-semibold;
   }
@@ -16,3 +17,6 @@
     @apply text-[20px] xl:text-[24px] leading-[1.1] font-semibold;
   }
 }
+=======
+}
+>>>>>>> d235620e942cf4a7136d431121289e4de6450199

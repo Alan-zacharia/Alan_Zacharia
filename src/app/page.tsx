@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Socials from "@/components/Socials";
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
@@ -34,5 +35,10 @@ export default function Home() {
         </div>
       </div>    
     </section>
+=======
+export default function Home() {
+  return (
+   <main>homepage</main>
+>>>>>>> d235620e942cf4a7136d431121289e4de6450199
   );
 }
